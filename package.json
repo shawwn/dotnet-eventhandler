@@ -1,0 +1,9 @@
+{
+  "name": "dotnet-eventhandler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shawwn/dotnet-eventhandler.git",
+  "author": "Shawn Presser <shawnpresser@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
